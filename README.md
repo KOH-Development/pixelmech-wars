@@ -2,7 +2,7 @@
 The repository for the game situated in the universe being built by the PixelMech Warriors Project on NEAR.
 
 # Discord
-discord.gg/4shV2CrtAh
+https://discord.gg/4shV2CrtAh
 
 # Twitter
 https://twitter.com/PixelmechNFT
